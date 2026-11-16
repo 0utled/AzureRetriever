@@ -1,3 +1,4 @@
+[![NuGet](https://img.shields.io/nuget/v/AzureRetriever.svg)](https://www.nuget.org/packages/AzureRetriever)
 # AzureRetriever
 
 Small C# library I made to get a list of all Git repos in an Azure DevOps organization, across all projects.
